@@ -1,20 +1,20 @@
 var data = [
   {
     datetime: "1/1/2010",
-    city: "benton",
-    state: "ar",
-    country: "us",
-    shape: "circle",
+    city: "Benton",
+    state: "AR",
+    country: "US",
+    shape: "Circle",
     durationMinutes: "5 mins.",
-    comments: "4 bright green circles high in the sky going in circles then one bright green light at my front door."
+    comments: "4 bright green circles high in the sky going in circles"
   },
   {
     datetime: "1/1/2010",
-    city: "bonita",
-    state: "ca",
-    country: "us",
-    shape: "light",
-    durationMinutes: "13 minutes",
-    comments: "Three bright red lights witnessed floating stationary over San Diego New Years Day 2010"
+    city: "Round Rocky",
+    state: "TX",
+    country: "US",
+    shape: "Light",
+    durationMinutes: "3 minutes",
+    comments: "Three fast moving lights over Round Rocky City"
   },
 ];
